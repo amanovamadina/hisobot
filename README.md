@@ -1,0 +1,2 @@
+# hisobotim
+hisobot yuklash
